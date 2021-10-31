@@ -1,0 +1,6 @@
+.carousel-caption-center{
+    color: white;
+}
+.fade{
+    animation-name: fadeout-left;
+}
